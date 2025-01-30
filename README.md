@@ -19,4 +19,6 @@ Makes the code polymorphic and also reduces Shanon entropy of the code by encodi
 ## TODO
 1) Make the obfuscated code more compact as the obfuscation processes leads to size explosion.
 2) A post-compile module py2exe or pyinstaller executables
+3) Control flow obfuscation
+4) Better polymorphism by messing with the control flow itself (Rearrangements of the nodes of the CFG on runtime)
 
