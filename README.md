@@ -1,4 +1,4 @@
-# Papyrus 
+# paPYrus
 ##### A comprehensive framework for python sourcecode obfuscation, evasion and anti analysis.
 ##### Papyrus makes use of many techniques to make python source code less readable and secure against static analysis.
 
